@@ -30,12 +30,6 @@ class User:
     def __str__(self):
         return f"{self.name} {self.surname} {self.email} {self.phone_number}"
 
-    def __enter__(self):
-        return self.__str__()
-
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        pass
-
     def to_dict(self):
         return{"name":self.name, "surname":self.surname, "email":self.email, "phone_number":self.phone_number}
 
