@@ -12,11 +12,11 @@
     "img_name": "img_3.jpg"
   },
   {
-    "img1_url": "https://files.realpython.com/media/Pythons-property_Watermarked.b0ccfdca7a54.jpeg",
+    "img_url": "https://files.realpython.com/media/Pythons-property_Watermarked.b0ccfdca7a54.jpeg",
     "img_name": "img_4.jpg"
   },
   {
-    "img1_url": "https://files.realpython.com/media/Pythons-len-Function_Watermarked.9188df7e74ef.jpeg",
-    "img1_name": "img_5.jpg"
+    "img_url": "https://files.realpython.com/media/Pythons-len-Function_Watermarked.9188df7e74ef.jpeg",
+    "img_name": "img_5.jpg"
   }
 ]
