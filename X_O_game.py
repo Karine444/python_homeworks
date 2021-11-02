@@ -75,7 +75,7 @@ while True:
     print("Enter 2 to Quit")
     # Try exception for CHOICE input
     try:
-        choice = int(input("Your choice(1 or 2)?"))
+        choice = int(input("Your choice(1 or 2)"))
     except ValueError:
         print("Wrong Input!!! Try Again\n")
         continue
